@@ -7,7 +7,7 @@
 The system comes with basic and interesting options. Other than that, there is an option of K9 (/petattack & /petsearch) that basically your dog can attack and search for the suspect if he has drugs on him (of course you will define the items in shared.lua).
 More advanced updates will be released to the petshop system in the future.
 
-* If you have any question, my discord - NaorNC#8998
+* If you have any question, discord - https://discord.gg/cKt4Mpd2PQ
 
 # Installation
 
